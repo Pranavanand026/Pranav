@@ -1,42 +1,72 @@
-<h-align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=2,4,6,8,10&height=180&section=header&text=Hi%20there,%20I'm%20Pranav%20Anand%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</h-align>
+<div align="center">
 
-### 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=180&section=header&text=Pranav%20Anand&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=B.Tech%20Student%20%C2%B7%20Web%20Developer&descAlignY=60&descSize=16" width="100%" alt="header" />
 
-- 🔭 Full-Stack Developer & Software Engineer building scalable web applications and backend architectures.
-- 💻 Passionate about web application architecture, database-driven software design, and full-stack development using PHP, MySQL, and JavaScript.
-- ⚡ In my free time, I build interactive applications, explore game development in JavaScript, and experiment with styling and UI workflows.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=480&lines=Building+for+the+web.;Learning+something+new+every+day.;Turning+ideas+into+interfaces." alt="Typing SVG" />
+</a>
 
----
+</div>
 
-### 🛠️ Tech Stack & Skills
+<br/>
 
-- **Languages:** JavaScript, PHP, HTML5, CSS3, SQL
-- **Frameworks & Libraries:** React, Node.js
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, VS Code, PHP / MySQL stacks
+### 👋 About Me
 
----
+I'm **Pranav**, a B.Tech student who enjoys building things for the web. I like clean interfaces, simple code, and learning by shipping small projects.
 
-### 📂 Featured Projects
+- 🌱 Currently learning: modern web development
+- 🛠️ Focused on: front-end, responsive design, and clean UI
+- 🤝 Open to: collaborations, internships, and open-source contributions
 
-- **Mall & Home Utility Services Aggregator:** Engineered the architecture and database relationships for a comprehensive web-based utility services platform using PHP and MySQL.
-- **Interactive Web Apps & Games:** Developed canvas-based interactive applications and browser games using modern JavaScript.
+<br/>
 
----
+### ⚡ Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+</div>
+
+<br/>
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavAnand&show_icons=true&theme=radial&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavAnand&layout=compact&theme=radial&hide_border=true" />
-</p>
+<div align="center">
 
----
+<!-- Replace YOUR_USERNAME with your GitHub username -->
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="stats" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f172a" alt="streak" />
 
-### 📫 Connect with Me
+</div>
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-handle)
-- 🌐 [Portfolio](https://your-portfolio-website.com)
-- 📧 [Email Me](mailto:your-email@example.com)
+<br/>
+
+### 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pranavanand21/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Anand-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:pranavanand015@gmail.com">
+  <img src="https://img.shields.io/badge/Email-pranavanand015%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<i>"Make it work, make it right, make it beautiful."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
